@@ -1,0 +1,13 @@
+station_id,location,country,avg_temp_c,annual_rainfall_mm,wind_speed_kmh,elevation_m
+WS001,Reykjavik,Iceland,4.2,798,18.5,56
+WS002,Sahara Research Base,Algeria,29.8,12,12.3,378
+WS003,Amazon Station Alpha,Brazil,26.1,2847,8.7,124
+WS004,Mount Everest Base,Nepal,-6.4,467,45.2,5364
+WS005,Death Valley Center,USA,25.3,60,11.8,-86
+WS006,Antarctic Research,Antarctica,-18.7,166,28.4,2835
+WS007,Mumbai Monsoon,India,27.2,2213,15.6,14
+WS008,Siberian Outpost,Russia,-12.1,341,22.1,456
+WS009,Australian Outback,Australia,24.8,287,14.2,298
+WS010,Norwegian Fjords,Norway,6.1,1456,19.8,234
+WS011,Atacama Desert,Chile,18.4,0.8,13.7,2408
+WS012,Greenland Ice Sheet,Greenland,-15.3,312,31.5,2134

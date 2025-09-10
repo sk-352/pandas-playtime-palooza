@@ -1,0 +1,9 @@
+[
+  {"kingdom": "England", "capital": "London", "population": 3200000, "army_size": 25000, "gold_reserves": 850000, "trade_routes": 15, "stability": "High", "religion": "Christianity"},
+  {"kingdom": "France", "capital": "Paris", "population": 4100000, "army_size": 35000, "gold_reserves": 1200000, "trade_routes": 22, "stability": "Medium", "religion": "Christianity"},
+  {"kingdom": "Holy Roman Empire", "capital": "Aachen", "population": 5800000, "army_size": 45000, "gold_reserves": 950000, "trade_routes": 28, "stability": "Low", "religion": "Christianity"},
+  {"kingdom": "Scotland", "capital": "Edinburgh", "population": 800000, "army_size": 12000, "gold_reserves": 180000, "trade_routes": 8, "stability": "Medium", "religion": "Christianity"},
+  {"kingdom": "Poland", "capital": "Krakow", "population": 1900000, "army_size": 18000, "gold_reserves": 320000, "trade_routes": 12, "stability": "High", "religion": "Christianity"},
+  {"kingdom": "Denmark", "capital": "Roskilde", "population": 600000, "army_size": 8000, "gold_reserves": 150000, "trade_routes": 18, "stability": "High", "religion": "Christianity"},
+  {"kingdom": "Hungary", "capital": "Buda", "population": 1200000, "army_size": 15000, "gold_reserves": 280000, "trade_routes": 14, "stability": "Medium", "religion": "Christianity"}
+]

@@ -1,0 +1,9 @@
+[
+  {"creature": "Dragon", "region": "European Alps", "size": "Colossal", "danger_level": 10, "intelligence": "High", "element": "Fire", "last_sighting": "1547", "witness_credibility": 7},
+  {"creature": "Phoenix", "region": "Arabian Desert", "size": "Large", "danger_level": 3, "intelligence": "High", "element": "Fire", "last_sighting": "1823", "witness_credibility": 8},
+  {"creature": "Kraken", "region": "North Atlantic", "size": "Gigantic", "danger_level": 9, "intelligence": "Medium", "element": "Water", "last_sighting": "1952", "witness_credibility": 6},
+  {"creature": "Unicorn", "region": "Scottish Highlands", "size": "Medium", "danger_level": 1, "intelligence": "High", "element": "Light", "last_sighting": "1734", "witness_credibility": 5},
+  {"creature": "Griffin", "region": "Himalayan Peaks", "size": "Large", "danger_level": 7, "intelligence": "Medium", "element": "Air", "last_sighting": "1889", "witness_credibility": 7},
+  {"creature": "Basilisk", "region": "Romanian Caves", "size": "Medium", "danger_level": 8, "intelligence": "Low", "element": "Poison", "last_sighting": "1623", "witness_credibility": 6},
+  {"creature": "Thunderbird", "region": "North American Plains", "size": "Huge", "danger_level": 6, "intelligence": "Medium", "element": "Lightning", "last_sighting": "1967", "witness_credibility": 9}
+]

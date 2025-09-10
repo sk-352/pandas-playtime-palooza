@@ -1,0 +1,8 @@
+creature,region,size,danger_level,intelligence,element,last_sighting,witness_credibility
+Dragon,European Alps,Colossal,10,High,Fire,1547,7
+Phoenix,Arabian Desert,Large,3,High,Fire,1823,8
+Kraken,North Atlantic,Gigantic,9,Medium,Water,1952,6
+Unicorn,Scottish Highlands,Medium,1,High,Light,1734,5
+Griffin,Himalayan Peaks,Large,7,Medium,Air,1889,7
+Basilisk,Romanian Caves,Medium,8,Low,Poison,1623,6
+Thunderbird,North American Plains,Huge,6,Medium,Lightning,1967,9

@@ -1,0 +1,17 @@
+[
+  {"colony_name": "New Terra", "system": "Alpha Centauri", "population": 2500000, "established": 2157, "primary_industry": "Agriculture", "gravity": 0.98, "atmosphere": "Breathable", "distance_from_earth": 4.3},
+  {"colony_name": "Olympus Base", "system": "Wolf 359", "population": 45000, "established": 2203, "primary_industry": "Mining", "gravity": 0.61, "atmosphere": "Domed", "distance_from_earth": 7.9},
+  {"colony_name": "Haven Station", "system": "Proxima Centauri", "population": 890000, "established": 2145, "primary_industry": "Trade Hub", "gravity": 1.15, "atmosphere": "Breathable", "distance_from_earth": 4.2},
+  {"colony_name": "Red Sands", "system": "Kepler-452", "population": 150000, "established": 2189, "primary_industry": "Research", "gravity": 1.63, "atmosphere": "Filtered", "distance_from_earth": 1402},
+  {"colony_name": "Crystal Point", "system": "Gliese 667C", "population": 75000, "established": 2198, "primary_industry": "Energy", "gravity": 1.02, "atmosphere": "Breathable", "distance_from_earth": 23.6},
+  {"colony_name": "Aurora City", "system": "TRAPPIST-1", "population": 1200000, "established": 2167, "primary_industry": "Manufacturing", "gravity": 0.85, "atmosphere": "Breathable", "distance_from_earth": 39.5},
+  {"colony_name": "Titan Outpost", "system": "Barnard's Star", "population": 32000, "established": 2211, "primary_industry": "Mining", "gravity": 0.43, "atmosphere": "Pressurized", "distance_from_earth": 5.9},
+  {"colony_name": "Genesis Prime", "system": "Ross 128", "population": 680000, "established": 2178, "primary_industry": "Biotechnology", "gravity": 1.08, "atmosphere": "Breathable", "distance_from_earth": 11.0},
+  {"colony_name": "Frontier Base", "system": "LHS 1140", "population": 98000, "established": 2195, "primary_industry": "Military", "gravity": 1.43, "atmosphere": "Filtered", "distance_from_earth": 40.7},
+  {"colony_name": "Paradise Valley", "system": "K2-18", "population": 450000, "established": 2183, "primary_industry": "Tourism", "gravity": 0.89, "atmosphere": "Breathable", "distance_from_earth": 124},
+  {"colony_name": "New Shanghai", "system": "TOI-715", "population": 1800000, "established": 2156, "primary_industry": "Trade Hub", "gravity": 1.12, "atmosphere": "Breathable", "distance_from_earth": 137},
+  {"colony_name": "Quantum Labs", "system": "HD 40307", "population": 125000, "established": 2201, "primary_industry": "Research", "gravity": 0.77, "atmosphere": "Controlled", "distance_from_earth": 42},
+  {"colony_name": "Steel Harbor", "system": "Gliese 832", "population": 350000, "established": 2174, "primary_industry": "Manufacturing", "gravity": 1.33, "atmosphere": "Industrial", "distance_from_earth": 16.1},
+  {"colony_name": "Nomad Station", "system": "Proxima b", "population": 78000, "established": 2206, "primary_industry": "Exploration", "gravity": 1.17, "atmosphere": "Habitat Pods", "distance_from_earth": 4.2},
+  {"colony_name": "Eclipse City", "system": "Kepler-442b", "population": 290000, "established": 2187, "primary_industry": "Energy", "gravity": 1.34, "atmosphere": "Breathable", "distance_from_earth": 1206}
+]

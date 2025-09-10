@@ -1,0 +1,16 @@
+colony_name,system,population,established,primary_industry,gravity,atmosphere,distance_from_earth
+New Terra,Alpha Centauri,2500000,2157,Agriculture,0.98,Breathable,4.3
+Olympus Base,Wolf 359,45000,2203,Mining,0.61,Domed,7.9
+Haven Station,Proxima Centauri,890000,2145,Trade Hub,1.15,Breathable,4.2
+Red Sands,Kepler-452,150000,2189,Research,1.63,Filtered,1402
+Crystal Point,Gliese 667C,75000,2198,Energy,1.02,Breathable,23.6
+Aurora City,TRAPPIST-1,1200000,2167,Manufacturing,0.85,Breathable,39.5
+Titan Outpost,Barnard's Star,32000,2211,Mining,0.43,Pressurized,5.9
+Genesis Prime,Ross 128,680000,2178,Biotechnology,1.08,Breathable,11.0
+Frontier Base,LHS 1140,98000,2195,Military,1.43,Filtered,40.7
+Paradise Valley,K2-18,450000,2183,Tourism,0.89,Breathable,124
+New Shanghai,TOI-715,1800000,2156,Trade Hub,1.12,Breathable,137
+Quantum Labs,HD 40307,125000,2201,Research,0.77,Controlled,42
+Steel Harbor,Gliese 832,350000,2174,Manufacturing,1.33,Industrial,16.1
+Nomad Station,Proxima b,78000,2206,Exploration,1.17,Habitat Pods,4.2
+Eclipse City,Kepler-442b,290000,2187,Energy,1.34,Breathable,1206

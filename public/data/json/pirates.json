@@ -1,0 +1,21 @@
+[
+  {"captain": "Blackbeard", "ship": "Queen Anne's Revenge", "crew_size": 300, "treasure_gold": 50000, "years_active": 4, "base_location": "Caribbean", "status": "Deceased"},
+  {"captain": "Anne Bonny", "ship": "Ranger", "crew_size": 45, "treasure_gold": 12000, "years_active": 2, "base_location": "Nassau", "status": "Disappeared"},
+  {"captain": "Captain Kidd", "ship": "Adventure Galley", "crew_size": 150, "treasure_gold": 75000, "years_active": 6, "base_location": "Madagascar", "status": "Executed"},
+  {"captain": "Black Bart", "ship": "Royal Fortune", "crew_size": 400, "treasure_gold": 120000, "years_active": 4, "base_location": "West Africa", "status": "Deceased"},
+  {"captain": "Calico Jack", "ship": "William", "crew_size": 25, "treasure_gold": 8000, "years_active": 3, "base_location": "Caribbean", "status": "Executed"},
+  {"captain": "Henry Morgan", "ship": "Satisfaction", "crew_size": 500, "treasure_gold": 200000, "years_active": 15, "base_location": "Port Royal", "status": "Knighted"},
+  {"captain": "Mary Read", "ship": "Ranger", "crew_size": 45, "treasure_gold": 12000, "years_active": 2, "base_location": "Caribbean", "status": "Disease"},
+  {"captain": "Long John Silver", "ship": "Hispaniola", "crew_size": 80, "treasure_gold": 35000, "years_active": 8, "base_location": "Treasure Island", "status": "Retired"},
+  {"captain": "Red Beard Roger", "ship": "Crimson Terror", "crew_size": 220, "treasure_gold": 95000, "years_active": 7, "base_location": "Tortuga", "status": "Deceased"},
+  {"captain": "Iron Hook Jake", "ship": "Sea Demon", "crew_size": 180, "treasure_gold": 42000, "years_active": 5, "base_location": "Port Royal", "status": "Imprisoned"},
+  {"captain": "Storm Eye Sally", "ship": "Thunder Wave", "crew_size": 85, "treasure_gold": 28000, "years_active": 3, "base_location": "Bahamas", "status": "Active"},
+  {"captain": "Silver Tooth Tom", "ship": "Moon Ripper", "crew_size": 160, "treasure_gold": 67000, "years_active": 9, "base_location": "Madagascar", "status": "Retired"},
+  {"captain": "Bloody Mary", "ship": "Death's Dance", "crew_size": 95, "treasure_gold": 31000, "years_active": 4, "base_location": "Caribbean", "status": "Executed"},
+  {"captain": "Ghost Walker Will", "ship": "Phantom's Revenge", "crew_size": 120, "treasure_gold": 54000, "years_active": 6, "base_location": "Barbados", "status": "Disappeared"},
+  {"captain": "Mad Dog Murphy", "ship": "Rabid Wolf", "crew_size": 75, "treasure_gold": 23000, "years_active": 2, "base_location": "Nassau", "status": "Disease"},
+  {"captain": "Eagle Eye Emma", "ship": "Sky Piercer", "crew_size": 110, "treasure_gold": 39000, "years_active": 5, "base_location": "Jamaica", "status": "Active"},
+  {"captain": "Thunder Jack", "ship": "Lightning Strike", "crew_size": 200, "treasure_gold": 88000, "years_active": 8, "base_location": "Tortuga", "status": "Deceased"},
+  {"captain": "Scarface Pete", "ship": "Bloody Maiden", "crew_size": 65, "treasure_gold": 19000, "years_active": 3, "base_location": "Port Royal", "status": "Executed"},
+  {"captain": "One-Leg Ollie", "ship": "Wooden Fury", "crew_size": 55, "treasure_gold": 16000, "years_active": 4, "base_location": "Caribbean", "status": "Retired"}
+]

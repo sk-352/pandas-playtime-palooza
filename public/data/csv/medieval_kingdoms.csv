@@ -1,0 +1,8 @@
+kingdom,capital,population,army_size,gold_reserves,trade_routes,stability,religion
+England,London,3200000,25000,850000,15,High,Christianity
+France,Paris,4100000,35000,1200000,22,Medium,Christianity
+Holy Roman Empire,Aachen,5800000,45000,950000,28,Low,Christianity
+Scotland,Edinburgh,800000,12000,180000,8,Medium,Christianity
+Poland,Krakow,1900000,18000,320000,12,High,Christianity
+Denmark,Roskilde,600000,8000,150000,18,High,Christianity
+Hungary,Buda,1200000,15000,280000,14,Medium,Christianity
